@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC2DB1FF1E24B3D10094F378 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2DB1FE1E24B3D10094F378 /* CollectionViewCell.swift */; };
+		FC2DB2011E24B5350094F378 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2DB2001E24B5350094F378 /* NewViewController.swift */; };
 		FC720E2F1E23D6CF00E56FB1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC720E2E1E23D6CF00E56FB1 /* AppDelegate.swift */; };
 		FC720E311E23D6CF00E56FB1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC720E301E23D6CF00E56FB1 /* ViewController.swift */; };
 		FC720E341E23D6CF00E56FB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC720E321E23D6CF00E56FB1 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC2DB1FE1E24B3D10094F378 /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		FC2DB2001E24B5350094F378 /* NewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		FC720E2B1E23D6CF00E56FB1 /* AlbumViewTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlbumViewTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC720E2E1E23D6CF00E56FB1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FC720E301E23D6CF00E56FB1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				FC720E351E23D6CF00E56FB1 /* Assets.xcassets */,
 				FC720E371E23D6CF00E56FB1 /* LaunchScreen.storyboard */,
 				FC720E3A1E23D6CF00E56FB1 /* Info.plist */,
+				FC2DB1FE1E24B3D10094F378 /* CollectionViewCell.swift */,
+				FC2DB2001E24B5350094F378 /* NewViewController.swift */,
 			);
 			path = AlbumViewTest;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				FC720E311E23D6CF00E56FB1 /* ViewController.swift in Sources */,
 				FC720E2F1E23D6CF00E56FB1 /* AppDelegate.swift in Sources */,
+				FC2DB1FF1E24B3D10094F378 /* CollectionViewCell.swift in Sources */,
+				FC2DB2011E24B5350094F378 /* NewViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
